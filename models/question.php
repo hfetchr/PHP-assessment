@@ -1,6 +1,6 @@
 <?php
 
-namespace interview;
+//namespace interview;
 
 class Question
 {
@@ -73,7 +73,7 @@ class Question
     {
         $columns = array(
             'name',
-            'text'
+            'text',
             'answer'
         );
 
