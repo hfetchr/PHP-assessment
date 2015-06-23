@@ -5,7 +5,7 @@ namespace interview;
 class Database {
     protected $link;
     protected $connected;
-// Test
+
     public function __construct() {
         $credentials = new Config_Database();
 
